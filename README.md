@@ -3,12 +3,12 @@
 -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+    <source media="(prefers-color-scheme: dark)" max-with="50%" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" max-with="50%" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   </picture>
 
-<img width="55%" align="right" alt="ohohmiao's github stats" src="https://github-readme-stats.vercel.app/api?username=ohohmiao&show_icons=true&hide_border=true" />
+<img width="50%" align="right" alt="ohohmiao's github stats" src="https://github-readme-stats.vercel.app/api?username=ohohmiao&show_icons=true&hide_border=true" />
 <!--
   ![ohohmiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohohmiao)
   -->
