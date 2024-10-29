@@ -1,17 +1,16 @@
 <!--
 ## Hi there 👋
 -->
-<div align="center">
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" width="270" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   </picture>
 <img width="50%" align="right" alt="ohohmiao's github stats" src="https://github-readme-stats.vercel.app/api?username=ohohmiao&show_icons=true&hide_border=true" />
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/ohohmiao/ohohmiao.svg" />
-</div>
+</p>
 <p align="center">
-  
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/ohohmiao/ohohmiao.svg" />
 </p>
 
 <!--
