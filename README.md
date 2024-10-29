@@ -7,13 +7,11 @@
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   </picture>
-
 <img width="50%" align="right" alt="ohohmiao's github stats" src="https://github-readme-stats.vercel.app/api?username=ohohmiao&show_icons=true&hide_border=true" />
-<!--
-  ![ohohmiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohohmiao)
-  -->
-  
 </div>
+<p align="center">
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/ohohmiao/ohohmiao.svg" />
+</p>
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohohmiao)
