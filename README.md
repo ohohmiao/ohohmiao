@@ -8,7 +8,7 @@
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   </picture>
 
-  ![trophy](https://github-profile-trophy.vercel.app/?username=ohohmiao)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohohmiao)
   
 </div>
 
