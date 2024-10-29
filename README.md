@@ -7,9 +7,10 @@
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   </picture>
-</div>
 
-[trophy](https://github-profile-trophy.vercel.app/?username=ohohmiao)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=ohohmiao)
+  
+</div>
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohohmiao)
