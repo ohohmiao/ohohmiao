@@ -8,7 +8,10 @@
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   </picture>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohohmiao)
+<img width="55%" align="right" alt="ohohmiao's github stats" src="https://github-readme-stats.vercel.app/api?username=ohohmiao&show_icons=true&hide_border=true" />
+<!--
+  ![ohohmiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohohmiao)
+  -->
   
 </div>
 
