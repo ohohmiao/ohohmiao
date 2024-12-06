@@ -1,6 +1,10 @@
+## about me 👋
+
+![github stats](https://github-readme-stats.vercel.app/api?username=ohohmiao&show_icons=true)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs?username=ohohmiao&langs_count=8&layout=compact)
+
 <!--
 ## Hi there 👋
--->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" width="270" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
@@ -12,7 +16,7 @@
 <p align="center">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/ohohmiao/ohohmiao.svg" />
 </p>
-
+-->
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohohmiao)
 ![trophy](https://github-profile-trophy.vercel.app/?username=ohohmiao)
